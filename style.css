@@ -56,7 +56,7 @@ body{
 }
 .output{
     grid-column:  1 / -1;
-    background-color: #121212;
+    background-color: black;
     color: white;
     border-radius: 14px;
     height: 80px;
